@@ -18,8 +18,27 @@ const carros2024 = [
          consumo: 6.2,
          aceleracao:2.8,
          preco: 330000
+
+    }, 
+    {
  
+        nome:'Honda',
+         sigla: 'HON',
+         velocidadeMaxima: 2020,
+         potencia: 200,
+         consumo: 12.0,
+         aceleracao:5.5,
+         preco: 35000
+    },
+    {
  
+        nome:'Ford',
+         sigla: 'FOR',
+         velocidadeMaxima: 230,
+         potencia: 250,
+         consumo: 11.0,
+         aceleracao:5.0,
+         preco: 40000
     },
 ];
 
